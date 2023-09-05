@@ -1,0 +1,48 @@
+body
+{
+    background-color: rgb(238, 238, 48);
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 0;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.blocklink
+{
+    background-color: white;
+    border-right: 25px solid black;
+    padding: 30px;
+    margin-bottom: 30px;
+    width: 100%%;
+}
+
+.nav
+{
+    width: 200px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.nav a
+{
+    display: block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: Blue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.message
+{
+    padding:40px;
+    color:rgb(117, 46, 184) ;
+    font-size: 18px;
+}

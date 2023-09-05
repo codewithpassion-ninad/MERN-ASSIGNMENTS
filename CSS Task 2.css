@@ -1,0 +1,48 @@
+.vertical-nav {
+    width: 200px;
+    height: 100%;
+    background-color: #12dbdb;
+    border: 1px solid black;
+    float: left;
+    margin-right: 20px;
+}
+
+.vertical-nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+.vertical-nav a:hover {
+    background-color: blue;
+    color: white;
+}
+
+.horizontal-nav {
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.horizontal-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.horizontal-nav li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.horizontal-nav a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+.horizontal-nav a:hover {
+    background-color: lightgray;
+}
