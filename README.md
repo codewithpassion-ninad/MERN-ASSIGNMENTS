@@ -30,3 +30,9 @@ https://codewithpassion-ninad.github.io/MERN-ASSIGNMENTS/CSS%20Task%204.html
 
 TASK 10:
 https://codewithpassion-ninad.github.io/MERN-ASSIGNMENTS/CSS%20Task%205.html
+
+TASK 11:
+https://codewithpassion-ninad.github.io/MERN-ASSIGNMENTS/CSS%20Task%206.html
+
+TASK 12:
+https://codewithpassion-ninad.github.io/MERN-ASSIGNMENTS/CSS%20Task%207.html
